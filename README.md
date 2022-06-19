@@ -18,7 +18,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyekwon&theme=radical&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyekwon&layout=compact&theme=onedark)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyekwon&layout=compact&theme=onedark) -->
 
 
 [![Solved.ac
