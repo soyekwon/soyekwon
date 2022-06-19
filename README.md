@@ -3,9 +3,9 @@
 
 
 
-🔭 I’m studying Computer Science at Kookmin Univ
+🔭 I’m studying Computer Science at Kookmin Univ.
 
-🌱 I’m currently learning ReactJS
+🌱 I’m currently focusing on ReactJS.
 
 👯 
 🤔
