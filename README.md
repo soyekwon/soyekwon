@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=pink&height=300&section=header&text=Soye%20Kwon&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Soye%20Kwon&fontSize=70)
 
 
 ### Hi there 👋
