@@ -9,7 +9,7 @@
 
 🌱 I’m currently focusing on ReactJS.
 
-👯 
+🌟
 🤔
 💬
 📫
