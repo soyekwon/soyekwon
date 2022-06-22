@@ -7,7 +7,8 @@
 
 🔭 I’m studying Computer Science at Kookmin Univ.
 
-🌱 I’m currently focusing on ReactJS.
+🌱 I’m focusing on ReactJS.
+  응애
 
 ⭐
 🤔
