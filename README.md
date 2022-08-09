@@ -7,8 +7,8 @@
 
 🔭 I’m studying Computer Science at Kookmin Univ.
 
-🌱 I’m focusing on TypeScript.
-  응애
+🌱 I’m focusing on JS.
+ 
 
 ⭐
 🤔
