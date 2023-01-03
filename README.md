@@ -7,7 +7,7 @@
 
 🔭 I’m studying Computer Science at Kookmin Univ.
 
-🌱 I’m focusing on JS.
+🌱 I’m focusing on AI.
  
 
 ⭐
