@@ -3,10 +3,6 @@
 
 ### Hi there 👋
 
-
-
-🔭 I’m studying Computer Science at Kookmin Univ.
-
 🌱 I’m focusing on AI.
  
 
