@@ -4,7 +4,7 @@
 ## 👋 Hi, I’m Soye  
 🌱 AI / Vision / Generative ✨  
 **I make creative AI tools for styling & visual imagination.**
-<img width="1416" height="479" alt="domain (4)" src="https://github.com/user-attachments/assets/04df5194-3ab5-4387-911e-03263527a856" />
+<!-- <img width="1416" height="479" alt="domain (4)" src="https://github.com/user-attachments/assets/04df5194-3ab5-4387-911e-03263527a856" /> -->
 
 
 <br/>
